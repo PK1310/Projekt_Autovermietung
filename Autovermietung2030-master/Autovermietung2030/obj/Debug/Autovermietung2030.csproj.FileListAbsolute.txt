@@ -1,0 +1,14 @@
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\bin\Debug\auto2030.mdf
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\bin\Debug\auto2030_log.ldf
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.csproj.AssemblyReference.cache
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.csproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Fahrzeug_Einzel.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Fahrzeug_Liste.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Form1.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Kundeneinzel.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Kundenliste.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.Properties.Resources.resources
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.csproj.GenerateResource.cache
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.csproj.CoreCompileInputs.cache
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.exe
+C:\Users\Peter Krahn\Desktop\ILS\Heft 18\Autovermietung2030-master\Autovermietung2030\obj\Debug\Autovermietung2030.pdb
